@@ -1,4 +1,12 @@
-## Hi there 👋
+# Jack Seymour
+
+CS student at Cambridge.
+
+I mostly build the tools I wish existed. Once I get an idea stuck in my head I usually end up making it, whether or not I meant to.
+
+When I'm not coding I'm probably rowing, climbing, playing badminton or losing at board games.
+
+[LinkedIn](https://linkedin.com/in/jack-seymour) · seymour.w.jack@gmail.com
 
 <!--
 **jwseymour/jwseymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
