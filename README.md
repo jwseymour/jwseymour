@@ -6,7 +6,7 @@ I mostly build the tools I wish existed. Once I get an idea stuck in my head I u
 
 When I'm not coding I'm probably rowing, climbing, playing badminton or losing at board games.
 
-[LinkedIn](https://linkedin.com/in/jack-seymour) · seymour.w.jack@gmail.com
+[LinkedIn](https://linkedin.com/in/jack-seymour) · seymour.w.jack@gmail.com · [jackseymour.com](https://jackseymour.com/)
 
 <!--
 **jwseymour/jwseymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
